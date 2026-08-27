@@ -30,6 +30,9 @@ The study applies quantitative analysis using Python to examine financial data o
 **For econometric modeling and regression analysis:**  
 → Open [`02_econometric_modeling.ipynb`](notebooks/02_econometric_modeling.ipynb)
 
+- **For information about the dataset:**
+-> Open [`data/README.md`](data/README.md)
+
 **For the full research report:**  
 → See [`research_report.pdf`](docs/research_report.pdf)
 
