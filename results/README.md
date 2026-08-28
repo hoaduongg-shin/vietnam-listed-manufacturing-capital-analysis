@@ -36,7 +36,7 @@ The results also show that **D/E has a negative relationship with both ROA and R
 
 ## Results File
 
-### `research_results.docx`
+### [`research_results.pdf`](../results/research_results.pdf)
 
 Contains the extracted analytical results of the research, including:
 
