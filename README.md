@@ -16,6 +16,7 @@ The study applies quantitative analysis using Python to examine financial data o
 | `data/README.md`                          | Dataset source, scope, structure, and variable definitions                                                               |
 | `results/README.md`                       | Summary of the main analytical findings and guide to the detailed research results                                       |
 | `results/research_results.docx`           | Extracted research analysis and results, including tables, figures, regression results, and supporting analysis          |
+| `paper/research_paper.pdf`                | Full research paper prepared for the Student Research Contest                                                            |
 | `requirements.txt`                        | Python packages required for the analysis                                                                                |
 
 ## How to Navigate
@@ -23,20 +24,23 @@ The study applies quantitative analysis using Python to examine financial data o
 **For an overview of the research:**
 → Read [`PROJECT_OVERVIEW.md`](PROJECT_OVERVIEW.md)
 
+**For information about the dataset:**
+→ Open [`data/README.md`](data/README.md)
+
 **For data preparation and exploratory analysis:**
 → Open [`01_exploratory_analysis.ipynb`](notebooks/01_exploratory_analysis.ipynb)
 
 **For econometric modeling and regression analysis:**
 → Open [`02_econometric_modeling.ipynb`](notebooks/02_econometric_modeling.ipynb)
 
-**For information about the dataset:**
-→ Open [`data/README.md`](data/README.md)
-
 **For the main analytical findings:**
 → Read [`results/README.md`](results/README.md)
 
 **For the detailed research analysis and results:**
 → Open [`research_results.docx`](results/research_results.docx)
+
+**For the full research paper:**
+→ Open [`research_paper.pdf`](paper/research_paper.pdf)
 
 ## Tools
 
